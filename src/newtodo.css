@@ -1,0 +1,51 @@
+/* *{
+    background-color: rgb(62, 78, 131);
+} */
+body{
+    background-color: black;
+}
+.container{
+    width: 500px;
+    background-color: black;
+}
+li{
+    margin-top: 10px;
+    justify-content: center;
+    display: flex;
+    color: black;
+}
+.primary{
+    color: rgb(255, 255, 255);
+    background-color: #386bc0;
+    width: 10%;
+    height: 10%;
+    border: none;
+    border-radius: 5px;
+}
+.editBtn{
+    color: rgb(255, 0, 0);
+    background-color: #386bc0;
+    width: 10%;
+    height: 10%;
+    border: none;
+    border-radius: 5px;
+}
+.inputBtn{
+    width: 100%;
+    border: black;
+    background-color: beige;
+    border: white;
+    border-radius: 5px;
+}
+.center{
+    color: white;
+}
+.put{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+}
+.CheckOutlined{
+    color: red;
+}
